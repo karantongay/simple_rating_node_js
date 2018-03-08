@@ -1,0 +1,13 @@
+{
+  "name": "docker_simple_rating",
+  "version": "1.0.0",
+  "description": "Simple rating project",
+  "author": "Vikas Prasad <gunnervikas@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
